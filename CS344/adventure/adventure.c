@@ -1,4 +1,5 @@
 /******************************************************************************
+adventure.c
 CS344-400
 Program 2: Adventure
 Text adventure game, akin to Colossal Cave Adventure. Introduction to

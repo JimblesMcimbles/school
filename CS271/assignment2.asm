@@ -19,9 +19,8 @@ INCLUDE Irvine32.inc
 UPPERLIM		EQU		46
 
 .data
-programIntro	BYTE	"Fibonacci Numbers", 13, 10
-		BYTE	"Programmed by Sharon Kuo", 0
-promptName	BYTE	"What's your name? ", 0
+programIntro	BYTE	"Fibonacci Numbers", 0
+promptName	BYTE	"What is your name? ", 0
 hello		BYTE	"Hello, ", 0
 instructions	BYTE	"Enter the number of Fibonacci terms to be displayed."
 		BYTE	13, 10, "Give the number as an integer in the range "
@@ -29,8 +28,7 @@ instructions	BYTE	"Enter the number of Fibonacci terms to be displayed."
 promptNum	BYTE	"How many Fibonacci terms do you want? ", 0
 rangeError	BYTE	"Out of range. Enter a number in [1 ... 46]", 0
 spaces		BYTE	"     ", 0
-goodBye		BYTE	"Results certified by Sharon Kuo", 13, 10
-		BYTE	"Goodbye, ", 0
+goodBye		BYTE	"Goodbye, ", 0
 
 inputName	BYTE	30 DUP(0)
 inputNum	DWORD	?

@@ -27,17 +27,16 @@ LOWERLIM	EQU	1
 COLUMNMAX	EQU	10
 
 .data
-programIntro	BYTE	"Composite Numbers", 9
-		BYTE	"Programmed by Sharon Kuo", 13, 10
+programIntro	BYTE	"Composite Numbers", 13, 10
 		BYTE	"*EC: Align the output columns", 0
 instructions	BYTE	"Enter the number of composite numbers you would like "
 		BYTE	"to see.", 10, 13
-		BYTE	"I'll accept orders for up to 400 composites.", 0
+		BYTE	"I will accept orders for up to 400 composites.", 0
 promptNum	BYTE	"Enter the number of composites to display "
 		BYTE	"[1 ... 400]: ", 0
 rangeError	BYTE	"Out of range. Try again.", 0
 spaces		BYTE	"   ", 9, 0
-exitMsg		BYTE	"Results certified by Sharon Kuo. Goodbye!", 0
+exitMsg		BYTE	"Goodbye!", 0
 
 inputNum	DWORD	?
 

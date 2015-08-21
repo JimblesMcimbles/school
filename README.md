@@ -10,6 +10,10 @@ Selected school assignments and projects.
 * Fibonacci number calculator
 * Composite number calculator
 
-#### [CS 344: Operating Systems](https://githumb.com/cherun/school/tree/master/CS344)
+#### [CS 344: Operating Systems](https://github.com/cherun/school/tree/master/CS344)
 * Adventure
 * Small shell
+
+#### CS 361: Software Engineering I
+* [Privacy in the Internet Age](https://github.com/mosspilot/cs361projectb)
+  * A partial implementation of a mobile website showing privacy settings of mobile applications

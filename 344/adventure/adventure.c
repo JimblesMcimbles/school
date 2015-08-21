@@ -1,7 +1,6 @@
 /******************************************************************************
 CS344-400
 Program 2: Adventure
-Last modified: 2015/07/20
 Text adventure game, akin to Colossal Cave Adventure. Introduction to
 	programming in C on UNIX-based systems.
 Grading notes: I moved some variables outside of functions so that I could

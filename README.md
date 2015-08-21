@@ -9,3 +9,7 @@ Selected school assignments and projects.
 #### [CS 271: Computer Architecture and Assembly Language](https://github.com/cherun/school/tree/master/CS271)
 * Fibonacci number calculator
 * Composite number calculator
+
+#### [CS 344: Operating Systems](https://githumb.com/cherun/school/tree/master/CS344)
+* Adventure
+* Small shell

@@ -9,10 +9,12 @@ Selected school assignments and projects.
 #### [CS 271: Computer Architecture and Assembly Language](https://github.com/cherun/school/tree/master/CS271)
 * Fibonacci number calculator
 * Composite number calculator
+* Low-level I/O procedures
 
 #### [CS 344: Operating Systems](https://github.com/cherun/school/tree/master/CS344)
 * Adventure
 * Small shell
+* One-time pad encryption/decryption
 
 #### CS 361: Software Engineering I
 * [Privacy in the Internet Age](https://github.com/mosspilot/cs361projectb)

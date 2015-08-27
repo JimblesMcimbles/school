@@ -8,3 +8,6 @@ Written in MASM Assembly.
 
 ###### Assignment 4
 * Composite number calculator
+
+###### Assignment 6a
+* Designing low-level I/O procedures

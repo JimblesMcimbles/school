@@ -68,8 +68,7 @@ ENDM
 
 .data
 programTitle	BYTE	"PROGRAMMING ASSIGNMENT 6: Designing low-level "
-		BYTE	"I/O procedures", 13, 10
-		BYTE	"Written by: Sharon Kuo", 0
+		BYTE	"I/O procedures", 0
 instructions	BYTE	"Please provide 10 unsigned decimal integers.", 13, 10
 		BYTE	"Each number needs to be small enough to fit inside a "
 		BYTE	"32 bit register.", 13, 10

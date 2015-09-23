@@ -9,7 +9,7 @@ Various assignments for CS 344: Operating Systems.
 * Small shell program for Linux
 * Runs command-line instructions
 * Works similar to the Bash shell
-* Supports three built-in commands: exit, cd, and status
+* Supports three built-in commands: `exit`, `cd`, and `status`
 * Also supports comments, beginning with the '#' character
 
 ###### one-time pad
